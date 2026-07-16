@@ -1,0 +1,15 @@
+{
+  "name": "vortex-pulse-8301",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9739,
+    "createdAt": "2026-07-16T06:17:32.972Z"
+  }
+}
